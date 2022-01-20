@@ -13,8 +13,10 @@ For more information of installation process please visit official repository: [
 
 ### reID network
 To use reidentification algorithm you need to train the model.
+
 Example of a dataset which can be used to train model:
 [Market1501 Dataset](http://www.liangzheng.com.cn/Project/project_reid.html) [[Google]](https://drive.google.com/file/d/0B8-rUzbwVRk0c054eEozWG9COHM/view) [[Baidu]](https://pan.baidu.com/s/1ntIi2Op)
+
 For more information of installation process please visit official repository: [Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch)
 
 Credits to theAIGuysCode and layumi for creating backbones of this repository:
