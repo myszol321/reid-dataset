@@ -1,7 +1,7 @@
 # reid-dataset
 
 ## Getting started
-CUDA Toolkit is essential to use this program.
+CUDA Toolkit is essential to use this program. <br>
 Make sure to use CUDA Toolkit version 10.1 as it is the proper version for the TensorFlow version used in this repository.
 https://developer.nvidia.com/cuda-10.1-download-archive-update2
 ### YOLOv4
