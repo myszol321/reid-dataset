@@ -53,7 +53,7 @@ Extract features:
   --test_dir: directory of an object (for this example: 'object')
 ```
 Again, in this script you can tune parameters of a model used to extract features. Please check script or visit authors repo. <br>
-Extracted features will be saved in pytorch_results.mat and pytorch_results_averages.mat files. The second file contains average values of every folder instead of feature of every picture.
+Extracted features will be saved in pytorch_results.mat and pytorch_results_averages.mat files. The second file contains average values of every folder instead of feature of every picture. <br>
 Now you can directly use GUI:
 ```bash
   gui.py:
