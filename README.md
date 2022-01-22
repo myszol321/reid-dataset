@@ -19,10 +19,11 @@ Example of a dataset which can be used to train model: <br>
 
 For more information of installation process please visit official repository: [Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch)
 
-### Dataset
+## Dataset
 Idea of this project is to have set of cameras in which we expect people to re-appear.
 Assume we have an object in which we have 3 cameras.
 Place video sequences somewhere, for example in ./data/video/object_folder/ <br>
+## Running program
 Run YOLOv4 tracker for each of these sequences (example for camera c1s1 in object):
 ```bash
  object_tracker.py:
